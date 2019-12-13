@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FinalApp.AnimalPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="WELCOME KIDS AND ANIMALS" FontSize="40" HorizontalTextAlignment="Center" TextColor="Accent"></Label>
+                <Grid VerticalOptions="FillAndExpand" Margin="10">
+                    <Grid.RowDefinitions>
+
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                    </Grid.ColumnDefinitions>
+
+                    <Image Source="AA.jpg" Grid.Column="0" Grid.Row="0" Aspect="Fill"></Image>
+                    <Image Source="BB.jpg" Grid.Column="1" Grid.Row="0" Aspect="Fill"></Image>
+                    <Image Source="CC.jpg" Grid.Column="2" Grid.Row="0" Aspect="Fill"></Image>
+                    <Image Source="DD.jpg" Grid.Column="0" Grid.Row="1" Aspect="Fill"></Image>
+                    <Image Source="EE.jpg" Grid.Column="1" Grid.Row="1" Aspect="Fill"></Image>
+                    <Image Source="FF.jpg" Grid.Column="2" Grid.Row="1" Aspect="Fill"></Image>
+                    <Image Source="GG.jpg" Grid.Column="0" Grid.Row="2" Aspect="Fill"></Image>
+                    <Image Source="HH.jpg" Grid.Column="1" Grid.Row="2" Aspect="Fill"></Image>
+                    <Image Source="II.jpg" Grid.Column="2" Grid.Row="2" Aspect="Fill"></Image>
+                    <Image Source="JJ.jpg" Grid.Column="0" Grid.Row="3" Aspect="Fill"></Image>
+                    <Image Source="KK.jpg" Grid.Column="1" Grid.Row="3" Aspect="Fill"></Image>
+                    <Image Source="LL.jpg" Grid.Column="2" Grid.Row="3" Aspect="Fill"></Image>
+                    <Image Source="MM.jpg" Grid.Column="0" Grid.Row="4" Aspect="Fill"></Image>
+                    <Image Source="NN.jpg" Grid.Column="1" Grid.Row="4" Aspect="Fill"></Image>
+                    <Image Source="OO.jpg" Grid.Column="2" Grid.Row="4" Aspect="Fill"></Image>
+                    <Image Source="PP.jpg" Grid.Column="0" Grid.Row="5" Aspect="Fill"></Image>
+                    <Image Source="QQ.jpg" Grid.Column="1" Grid.Row="5" Aspect="Fill"></Image>
+                    <Image Source="RR.jpg" Grid.Column="2" Grid.Row="5" Aspect="Fill"></Image>
+                    <Image Source="SS.jpg" Grid.Column="0" Grid.Row="6" Aspect="Fill"></Image>
+                    <Image Source="TT.jpg" Grid.Column="1" Grid.Row="6" Aspect="Fill"></Image>
+                    <Image Source="UU.jpg" Grid.Column="2" Grid.Row="6" Aspect="Fill"></Image>
+                    <Image Source="VV.jpg" Grid.Column="0" Grid.Row="7" Aspect="Fill"></Image>
+                    <Image Source="WW.jpg" Grid.Column="1" Grid.Row="7" Aspect="Fill"></Image>
+                    <Image Source="XX.jpg" Grid.Column="2" Grid.Row="7" Aspect="Fill"></Image>
+                    <Image Source="YY.jpg" Grid.Column="0" Grid.Row="8" Aspect="Fill"></Image>
+                    <Image Source="ZZ.jpg" Grid.Column="1" Grid.Row="8" Aspect="Fill"></Image>
+                </Grid>
+
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

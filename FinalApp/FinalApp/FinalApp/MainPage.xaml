@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FinalApp.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout Margin="14">
+
+            <Entry Text="{Binding Size}" Placeholder="Username:" PlaceholderColor="Black" TextColor="Black"
+                   
+                   />
+            <Entry Text="{Binding ShippingAddress}" Placeholder="Password:" PlaceholderColor="Black" TextColor="Black" 
+                   />
+            <Label Text="Done" 
+                   TextColor="White"/>
+            <Switch IsToggled="{Binding Done}" />
+            <Button Text="SIGN IN"  Clicked="LogInButton"
+                    />
+
+            <Button Text="Sign up"  
+                    Clicked="signInButton"
+                   
+            />
+            <Image
+               Source="Monkey.png"
+                
+                ></Image>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

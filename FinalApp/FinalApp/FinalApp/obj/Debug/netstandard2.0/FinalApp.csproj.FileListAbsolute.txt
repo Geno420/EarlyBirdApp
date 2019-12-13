@@ -1,0 +1,17 @@
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.csprojAssemblyReference.cache
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.AssemblyInfoInputs.cache
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.AssemblyInfo.cs
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.dll
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\ref\FinalApp.dll
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.pdb
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.deps.json
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.dll
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\ref\FinalApp.dll
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.pdb
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\Contents.xaml.g.cs
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\AnimalPage.xaml.g.cs
+C:\FinalAppii\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\ButtonPage.xaml.g.cs
